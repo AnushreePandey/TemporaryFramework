@@ -29,4 +29,8 @@ public void Test5() {
 	System.out.println("Test5");
 }
 
+@Test
+public void Test20() {
+	System.out.println("Test20");
+}
 }
